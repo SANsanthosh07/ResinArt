@@ -44,7 +44,7 @@ const Gallery = () => {
       title: "Flower Preservation",
       category: "Preservation",
       image: FlowerPre1,
-      price: "₹499",
+      // price: "₹499",
       likes: 124,
     },
     {
@@ -52,7 +52,7 @@ const Gallery = () => {
       title: "Wooden varmala preservation",
       category: "Wooden Frames",
       image: Wood3,
-      price: "₹1299",
+      // price: "₹1299",
       likes: 89,
     },
 
@@ -61,7 +61,7 @@ const Gallery = () => {
       title: "Customized Clock",
       category: "Clock",
       image: ClockBlack,
-      price: "₹499",
+      // price: "₹499",
       likes: 70,
     },
     {
@@ -69,7 +69,7 @@ const Gallery = () => {
       title: "Customized Clock",
       category: "Clock",
       image: Clock2,
-      price: "₹599",
+      // price: "₹599",
       likes: 123,
     },
     {
@@ -77,7 +77,7 @@ const Gallery = () => {
       title: "Wooden varmala preservation",
       category: "Wooden Frames",
       image: Wood1,
-      price: "₹1100",
+      // price: "₹1100",
       likes: 134,
     },
     {
@@ -85,7 +85,7 @@ const Gallery = () => {
       title: "Custom KeyChains",
       category: "Key Chains",
       image: KeyChain3,
-      price: "₹69",
+      // price: "₹69",
       likes: 175,
     },
     {
@@ -93,7 +93,7 @@ const Gallery = () => {
       title: "Custom KeyChains",
       category: "Key Chains",
       image: KeyChain2,
-      price: "₹49",
+      // price: "₹49",
       likes: 162,
     },
     {
@@ -101,7 +101,7 @@ const Gallery = () => {
       title: "Custom KeyChains",
       category: "Key Chains",
       image: KeyChain1,
-      price: "₹49",
+      // price: "₹49",
       likes: 125,
     },
     {
@@ -109,7 +109,7 @@ const Gallery = () => {
       title: "Wooden varmala preservation",
       category: "Wooden Frames",
       image: Wood4,
-      price: "₹1320",
+      // price: "₹1320",
       likes: 89,
     },
     {
@@ -117,7 +117,7 @@ const Gallery = () => {
       title: "Wooden varmala preservation",
       category: "Wooden Frames",
       image: Wood2,
-      price: "₹1399",
+      // price: "₹1399",
       likes: 89,
     },
     {
@@ -125,7 +125,7 @@ const Gallery = () => {
       title: "Miniature",
       category: "Miniature",
       image: Miniature1,
-      price: "₹1499",
+      // price: "₹1499",
       likes: 89,
     },
     {
@@ -133,7 +133,7 @@ const Gallery = () => {
       title: "Miniature",
       category: "Miniature",
       image: Miniature2,
-      price: "₹1599",
+      // price: "₹1599",
       likes: 89,
     },
     {
@@ -141,7 +141,7 @@ const Gallery = () => {
       title: "Miniature",
       category: "Miniature",
       image: Miniature3,
-      price: "₹1699",
+      // price: "₹1699",
       likes: 189,
     },
     {
@@ -149,7 +149,7 @@ const Gallery = () => {
       title: "Miniature",
       category: "Miniature",
       image: Miniature4,
-      price: "₹1499",
+      // price: "₹1499",
       likes: 146,
     },
     {
@@ -157,7 +157,7 @@ const Gallery = () => {
       title: "Miniature",
       category: "Miniature",
       image: Miniature5,
-      price: "₹1499",
+      // price: "₹1499",
       likes: 349,
     },
     {
@@ -165,7 +165,7 @@ const Gallery = () => {
       title: "Miniature",
       category: "Miniature",
       image: Miniature6,
-      price: "₹1399",
+      // price: "₹1399",
       likes: 145,
     },
     {
@@ -173,7 +173,7 @@ const Gallery = () => {
       title: "Flower Preservation",
       category: "Preservation",
       image: FlowerPre2,
-      price: "₹499",
+      // price: "₹499",
       likes: 124,
     },
     {
@@ -181,7 +181,7 @@ const Gallery = () => {
       title: "Flower Preservation",
       category: "Preservation",
       image: FlowerPre3,
-      price: "₹499",
+      // price: "₹499",
       likes: 124,
     },
   ];
