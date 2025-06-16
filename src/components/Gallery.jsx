@@ -253,10 +253,10 @@ const Gallery = () => {
                 <h3 className="text-xl font-semibold text-gray-800 mb-2">
                   {piece.title}
                 </h3>
-                <div className="flex items-center justify-between">
-                  <span className="text-2xl font-bold text-purple-600">
+                <div className="flex items-center">
+                  {/* <span className="text-2xl font-bold text-purple-600">
                     {piece.price}
-                  </span>
+                  </span> */}
                   <div className="flex items-center text-gray-500">
                     <Heart className="w-4 h-4 mr-1" />
                     <span>{piece.likes}</span>
